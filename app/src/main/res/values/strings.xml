@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradeView</string>
+    <string name="next_grade_tip">距离下个等级\n还差%1$d积分</string>
+</resources>
